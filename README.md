@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codese38
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python 
+- 👀 I’m interested in python , rust
+- 🌱 I’m currently learning python , rust
+- 💞️ I’m looking to collaborate on python , rust
 - 📫 How to reach me azeemcan@outlook.com
 
 <!---
